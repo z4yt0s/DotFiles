@@ -1,0 +1,25 @@
+# To Many Hack Night
+# Created by zaytos
+[colors.primary]
+background = "0x1a1b26"
+foreground = "0xa9b1d6"
+
+[colors.normal]
+black = "0x54587b"
+red = "0xcd3800"
+green = "0x26a800"
+yellow = "0xa5a800"
+blue = "0x0095cd"
+magenta = "0x9f00cd"
+cyan = "0x009a8b"
+white = "0x839496"
+
+[colors.bright]
+black = "0x6c708e"
+red = "0xcf5c31"
+green = "0x70b75b"
+yellow = "0xb3b544"
+blue = "0x3ea8d0"
+magenta = "0xb332d9"
+cyan = "0x33b2a6"
+white = "0x97a4a5"
